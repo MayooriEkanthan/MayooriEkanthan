@@ -46,6 +46,8 @@ I'm an enthusiastic learner passionate about combining **technology, creativity,
 
 ## 📂 Featured Projects
 
+- [🚀 **GitHub Portfolio**](https://github.com/MayooriEkanthan)  
+  Visit my **GitHub portfolio** for a collection of my projects, contributions, and coding journey.
 
 
 ---
