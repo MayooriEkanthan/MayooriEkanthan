@@ -11,11 +11,11 @@ I am an enthusiastic learner with a strong passion for leveraging technology to 
 
 ## 🚀 Interests & Focus Areas
 
+- **🌐 Full-Stack Development**: Developing robust **web applications** (both frontend & backend).
 - **🌱 IoT & Smart Systems**: IoT for **AgriTech**, **HealthTech**, **Environmental Safety**, and more.
 - **📊 Database & Data Science**: **SQL**, data analysis, predictive modeling, and visualization.
 - **🔒 Cybersecurity**: Securing applications, networks, and ethical hacking practices.
 - **🎨 UI/UX Design**: Focusing on **Figma prototyping** and user-centered design principles.
-- **🌐 Full-Stack Development**: Developing robust **web applications** (both frontend & backend).
 - **✅ Software Testing & QA**: Ensuring application reliability, debugging, and performance optimization.
 
 ---
