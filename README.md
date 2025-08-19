@@ -73,6 +73,7 @@ I am an enthusiastic learner with a strong passion for leveraging technology to 
 - 🌟 Designing **impactful IoT solutions** for **agriculture**, **healthcare**, and **environmental sustainability**.
 - 📚 Expanding my expertise in **mechine learning** & **cybersecurity**.
 - 🎨 Creating polished **UI/UX prototypes** and modern **web applications**.
+- 💻 Enhancing my expertise in full-stack development with a focus on **React, Node.js, and Java** to deliver robust and scalable solutions.
 - 🔭 Building **open-source projects** that combine **IoT + AI + Web Systems**.
 
 ---
