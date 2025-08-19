@@ -52,6 +52,12 @@ I am an enthusiastic learner with a strong passion for leveraging technology to 
 
 - [🚀 **GitHub Portfolio**](https://github.com/MayooriEkanthan)  
   Visit my **GitHub portfolio** for a collection of my projects, contributions, and coding journey.
+  
+- 🌍 [**Makeup Brand Website**](https://github.com/MayooriEkanthan/MakeupbrandWebsite.git)  
+**Makeup Brand Website** is a platform that showcases innovative makeup products, their features, and user guides, offering seamless shopping experiences and comprehensive product details.
+
+- ✈️ [**Travel Website**](https://github.com/MayooriEkanthan/TravelWebsite.git)  
+**Travel Website** is an interactive platform that provides travel itineraries, destination guides, booking options, and reviews, helping users plan and enjoy their perfect trips.
 
 
 ---
