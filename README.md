@@ -6,7 +6,8 @@
 🌟 **IEEE Women in Engineering (WIE) Member**  
 🌟 **IEEE Computer Society Member**
 
-I'm an enthusiastic learner passionate about combining **technology, creativity, and problem-solving**. I enjoy exploring **IoT**, **Data Science**, **Cybersecurity**, and **Full-Stack Development**, with a focus on building solutions that improve **agriculture**, **healthcare**, and **environmental sustainability**.
+I am an enthusiastic learner with a strong passion for leveraging technology to drive innovation and solve real-world problems. My interests span UI/UX designing, machine learning model training, AI-related fields, software development (both frontend and backend), and cybersecurity, with a focus on creating impactful solutions.
+
 
 ## 🚀 Interests & Focus Areas
 
