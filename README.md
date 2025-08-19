@@ -46,7 +46,7 @@ I'm an enthusiastic learner passionate about combining **technology, creativity,
 
 ## 📂 Featured Projects
 
-- [💻 **DiaSaver: Diabetes Risk Prediction Web App**](https://github.com/your-username/diasaver)  
+- [💻 **DiaSaver: Diabetes Risk Prediction Web App**](https://github.com/MayooriEkanthan/DiaSaver.git)  
   **DiaSaver** is a web app that predicts diabetes risk using AI, offers prevention tips, symptom info, and local resources, helping users manage and understand diabetes effectively.
 
 - [🚀 **GitHub Portfolio**](https://github.com/MayooriEkanthan)  
