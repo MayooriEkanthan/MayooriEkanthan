@@ -67,7 +67,7 @@ I'm an enthusiastic learner passionate about combining **technology, creativity,
 
 ## 🌐 Connect With Me
 
-- 📩 **[Your Email]**
+- 📩 **[mayooriekanthan90@gmail.com]**
 - 💼 **[LinkedIn Profile]**
 - 🐙 **[GitHub Portfolio]**
 
