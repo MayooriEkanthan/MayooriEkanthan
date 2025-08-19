@@ -73,8 +73,8 @@ I am an enthusiastic learner with a strong passion for leveraging technology to 
 
 ## 🌐 Connect With Me
 
-- 📩 **Gmail: [mayooriekanthan90@gmail.com]**
-- 💼 **Linkedin profile: (https://www.linkedin.com/in/mayoori-ekanthan-7888a6337/)**
+- 📩 **Gmail: mayooriekanthan90@gmail.com**
+- 💼 **Linkedin profile: https://www.linkedin.com/in/mayoori-ekanthan-7888a6337/**
 - 🐙 **[GitHub Portfolio](https://github.com/MayooriEkanthan)** 
 
 ---
