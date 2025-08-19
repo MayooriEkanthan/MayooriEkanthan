@@ -79,5 +79,4 @@ I'm an enthusiastic learner passionate about combining **technology, creativity,
 ---
 
 
-- MacOS and Windows system files (`.DS_Store`, `Thumbs.db`)
-- Editor files (e.g., `.vscode`)
+
