@@ -65,7 +65,7 @@ I am an enthusiastic learner with a strong passion for leveraging technology to 
 ## 📈 Current Goals
 
 - 🌟 Designing **impactful IoT solutions** for **agriculture**, **healthcare**, and **environmental sustainability**.
-- 📚 Expanding my expertise in **data science** & **cybersecurity**.
+- 📚 Expanding my expertise in **mechine learning** & **cybersecurity**.
 - 🎨 Creating polished **UI/UX prototypes** and modern **web applications**.
 - 🔭 Building **open-source projects** that combine **IoT + AI + Web Systems**.
 
