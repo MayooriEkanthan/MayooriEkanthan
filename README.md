@@ -84,6 +84,10 @@ I am an enthusiastic learner with a strong passion for leveraging technology to 
 - 🐙 **[GitHub Portfolio](https://github.com/MayooriEkanthan)** 
 
 ---
+🌟 **Thanks for stopping by!** 🌟  
+Feel free to explore my repositories at your leisure, and don’t hesitate to reach out if you're up for collaborating. Let’s build something amazing together! 🤝
+
+
 
 
 
