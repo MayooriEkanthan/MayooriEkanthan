@@ -71,7 +71,7 @@ I'm an enthusiastic learner passionate about combining **technology, creativity,
 
 - 📩 **[mayooriekanthan90@gmail.com]**
 - 💼 **[LinkedIn Profile]**
-- 🐙 **[GitHub Portfolio]**
+- 🐙 **[GitHub Portfolio](https://github.com/MayooriEkanthan)** 
 
 ---
 
