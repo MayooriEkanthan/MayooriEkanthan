@@ -50,9 +50,14 @@ I’m a **tech enthusiast and problem solver** passionate about creating impactf
 ---
 
 ## 📊 GitHub Stats
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayooriEkanthan&layout=compact&theme=tokyonight)  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayooriEkanthan&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MayooriEkanthan&theme=tokyonight)  
+
+![Followers](https://img.shields.io/github/followers/MayooriEkanthan?label=Followers&style=for-the-badge)  
+![Last Commit](https://img.shields.io/github/last-commit/MayooriEkanthan/DiaSaver?style=for-the-badge&color=green)
 
 ---
 
