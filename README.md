@@ -1,4 +1,7 @@
-# Hi there 👋, I'm Mayoori Ekanthan 👩‍💻
+# <p align="center">Hi there 👋, I'm Mayoori Ekanthan 👩‍💻</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7F7FD5&width=600&lines=Hi+there!+I'm+Mayoori+Ekanthan+👋;Tech+Enthusiast+|+AI+|+IoT+|+Web+Dev" alt="Typing SVG" />
+</p>
 
 🎓 **BSc (Hons) in Information Systems**  
 📍 **Faculty of Computing, Sabaragamuwa University of Sri Lanka**  
@@ -74,9 +77,11 @@ I’m a **tech enthusiast and problem solver** passionate about creating impactf
 
 ## 🌐 Connect With Me
 
-- 📩 Gmail: [mayooriekanthan90@gmail.com](mailto:mayooriekanthan90@gmail.com)  
-- 💼 LinkedIn: [Mayoori Ekanthan](https://www.linkedin.com/in/mayoori-ekanthan-7888a6337/)  
-- 🐙 GitHub: [Portfolio](https://github.com/MayooriEkanthan)  
+<p align="center">
+  <a href="mailto:mayooriekanthan90@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/mayoori-ekanthan-7888a6337/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/MayooriEkanthan"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
 
