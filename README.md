@@ -1,5 +1,5 @@
 # <p align="center">Hi there 👋, I'm Mayoori Ekanthan 👩‍💻</p>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1E3A8A&width=900&lines=Passionate+about+AI%7C+IoT%7C+Full-Stack+Development%7C+UI%2FUX+Design%7C+Cybersecurity&repeat=true)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1E3A8A&width=900&lines=Passionate+about+AI%7C+IoT%7C+Full-Stack+Development%7C+Cybersecurity&repeat=true)
 
 
 
