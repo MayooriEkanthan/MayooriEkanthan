@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=1E3A8A&width=600&lines=Hi+there!+I'm+Mayoori+Ekanthan+👋&repeat=true)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E3A8A&width=400&lines=Hi+there!+I'm+Mayoori+Ekanthan+👋&repeat=true)
+
 
 
 🎓 **BSc (Hons) in Information Systems**  
