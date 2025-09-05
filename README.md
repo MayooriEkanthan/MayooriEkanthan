@@ -1,7 +1,7 @@
-# <p align="center">Hi there 👋, I'm Mayoori Ekanthan 👩‍💻</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF6F61&width=600&lines=Hi+there!+I'm+Mayoori+Ekanthan+👋;Tech+Enthusiast+|+AI+|+IoT+|+Web+Dev" alt="Typing SVG" />
-</p>
+# Hi there 👋, I'm Mayoori Ekanthan 👩‍💻
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF6F61&width=600&lines=Hi+there!+I'm+Mayoori+Ekanthan+👋;Tech+Enthusiast+|+AI+|+IoT+|+Web+Dev&repeat=true)
+
 
 🎓 **BSc (Hons) in Information Systems**  
 📍 **Faculty of Computing, Sabaragamuwa University of Sri Lanka**  
