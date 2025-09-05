@@ -2,94 +2,77 @@
 
 🎓 **BSc (Hons) in Information Systems**  
 📍 **Faculty of Computing, Sabaragamuwa University of Sri Lanka**  
-🌟 **IEEE Member**  
-🌟 **IEEE Women in Engineering (WIE) Member**  
-🌟 **IEEE Computer Society Member**
+🌟 **IEEE Member | WIE & Computer Society Member**  
 
-I am an enthusiastic learner with a strong passion for leveraging technology to drive innovation and solve real-world problems. My interests span UI/UX designing, machine learning model training, AI-related fields, software development (both frontend and backend), and cybersecurity, with a focus on creating impactful solutions.
+I’m a **tech enthusiast and problem solver** passionate about creating impactful solutions with **AI, IoT, full-stack development, UI/UX design, and cybersecurity**. I love turning ideas into functional, user-centric applications that make a difference in people’s lives.  
 
+---
 
-## 🚀 Interests & Focus Areas
+## 🚀 Core Focus Areas
 
-- **🌐 Full-Stack Development**: Developing robust **web applications** (both frontend & backend).
-- **📊 Database & Data Science**: **SQL**, data analysis, predictive modeling, and visualization.
-- **🎨 UI/UX Design**: Focusing on **Figma prototyping** and user-centered design principles.
-- **🌱 IoT & Smart Systems**: IoT for **AgriTech**, **HealthTech**, **Environmental Safety**, and more.
-- **🔒 Cybersecurity**: Securing applications, networks, and ethical hacking practices.
-- **✅ Software Testing & QA**: Ensuring application reliability, debugging, and performance optimization.
+| Area | Focus |
+|------|-------|
+| **Full-Stack Development** | Building responsive, scalable **web apps** with modern frameworks |
+| **Data Science & ML** | Data analysis, predictive modeling, AI/ML solutions |
+| **UI/UX Design** | Prototyping, wireframing, and user-centered design with **Figma** |
+| **IoT & Smart Systems** | Innovative solutions in **AgriTech, HealthTech, and Environmental Safety** |
+| **Cybersecurity** | Application security, ethical hacking, network protection |
+| **Software Testing & QA** | Ensuring reliability and performance with testing best practices |
 
 ---
 
 ## 🛠 Skills & Tools
 
-### 💻 **Programming & Markup Languages**
-- **Java**, **C**, **Python**, **HTML**, **CSS**, **JavaScript**, **TypeScript**
-
-### ⚛ **Frameworks & Libraries**
-- **React.js**, **Node.js**
-
-### 📊 **Data & Databases**
-- **MySQL**, **MongoDB**, **Data Science** (Pandas, NumPy, Matplotlib)
-
-### 🎨 **Design & Prototyping**
-- **Figma**, **UI/UX Design Principles**
-
-### 🛡 **Cybersecurity**
-- Basics of **Network Security**, **Ethical Hacking** (beginner)
-
-### 🧪 **Software Testing**
-- **Manual Testing**, **Unit Testing**
-
-### 🔧 **Other Tools**
-- **Git/GitHub**, **LaTeX**, **Linux**, **Google Colab**
+**Programming & Markup:** `Java` | `C` | `Python` | `JavaScript` | `TypeScript` | `HTML` | `CSS`  
+**Frameworks & Libraries:** `React.js` | `Node.js`  
+**Databases & Data Science:** `MySQL` | `MongoDB` | `Pandas` | `NumPy` | `Matplotlib`  
+**UI/UX & Design:** `Figma` | `User-Centered Design`  
+**Cybersecurity:** Network security fundamentals, Ethical hacking (beginner)  
+**Software Testing:** Manual & Unit Testing  
+**Tools:** `Git/GitHub` | `LaTeX` | `Linux` | `Google Colab`  
 
 ---
 
 ## 📂 Featured Projects
 
-- [💻 **DiaSaver: Diabetes Risk Prediction Web App**](https://github.com/MayooriEkanthan/DiaSaver.git)  
-  **DiaSaver** is a web app that predicts diabetes risk using AI, offers prevention tips, symptom info, and local resources, helping users manage and understand diabetes effectively.
+- 💻 [**DiaSaver: Diabetes Risk Prediction Web App**](https://github.com/MayooriEkanthan/DiaSaver.git)  
+  AI-powered web app predicting diabetes risk, providing prevention tips, symptom info, and local resources.
 
-- [🚀 **GitHub Portfolio**](https://github.com/MayooriEkanthan)  
-  Visit my **GitHub portfolio** for a collection of my projects, contributions, and coding journey.
-  
-- 🌍 [**Makeup Brand Website**](https://github.com/MayooriEkanthan/MakeupbrandWebsite.git)  
-**Makeup Brand Website** is a platform that showcases innovative makeup products, their features, and user guides, offering seamless shopping experiences and comprehensive product details.
+- 💄 [**Mayo – Makeup Brand E-Commerce Website**](https://github.com/MayooriEkanthan/Makeupbrand_Mayo.git)  
+  Modern e-commerce platform showcasing innovative makeup products with seamless user experience.
 
 - ✈️ [**Travel Website**](https://github.com/MayooriEkanthan/TravelWebsite.git)  
-**Travel Website** is an interactive platform that provides travel itineraries, destination guides, booking options, and reviews, helping users plan and enjoy their perfect trips.
+  Interactive platform offering travel itineraries, destination guides, booking options, and reviews.
 
-
----
-
-## 🏆 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MayooriEkanthan&layout=compact&theme=tokyonight)
+- 🚀 [**GitHub Portfolio**](https://github.com/MayooriEkanthan)  
+  Collection of my projects, open-source contributions, and coding journey.
 
 ---
 
-## 📈 Current Goals
+## 📊 GitHub Stats
 
-- 🌟 Designing **impactful IoT solutions** for **agriculture**, **healthcare**, and **environmental sustainability**.
-- 📚 Expanding my expertise in **mechine learning** & **cybersecurity**.
-- 🎨 Creating polished **UI/UX prototypes** and modern **web applications**.
-- 💻 Enhancing my expertise in full-stack development with a focus on **React, Node.js, and Java** to deliver robust and scalable solutions.
-- 📚 Strengthening my problem-solving abilities by deepening my understanding of **Data Structures & Algorithms (DSA)** to build efficient and optimized solutions.
-- 🔭 Building **open-source projects** that combine **IoT + AI + Web Systems**.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MayooriEkanthan&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MayooriEkanthan&show_icons=true&theme=tokyonight)
+
+---
+
+## 🎯 Current Goals
+
+- Design **impactful IoT solutions** in agriculture, healthcare, and sustainability.  
+- Expand expertise in **machine learning** and **cybersecurity**.  
+- Build polished **UI/UX prototypes** and modern **web applications**.  
+- Strengthen full-stack skills using **React, Node.js, and Java**.  
+- Deepen understanding of **Data Structures & Algorithms (DSA)**.  
+- Develop **open-source projects** combining **IoT + AI + Web Systems**.  
 
 ---
 
 ## 🌐 Connect With Me
 
-- 📩 **Gmail: mayooriekanthan90@gmail.com**
-- 💼 **Linkedin profile: https://www.linkedin.com/in/mayoori-ekanthan-7888a6337/**
-- 🐙 **[GitHub Portfolio](https://github.com/MayooriEkanthan)** 
+- 📩 Gmail: [mayooriekanthan90@gmail.com](mailto:mayooriekanthan90@gmail.com)  
+- 💼 LinkedIn: [Mayoori Ekanthan](https://www.linkedin.com/in/mayoori-ekanthan-7888a6337/)  
+- 🐙 GitHub: [Portfolio](https://github.com/MayooriEkanthan)  
 
 ---
-🌟 **Thanks for stopping by!** 🌟  
-Feel free to explore my repositories at your leisure, and don’t hesitate to reach out if you're up for collaborating. Let’s build something amazing together! 🤝
 
-
-
-
-
+🌟 **Thanks for visiting!** Explore my work, and let’s collaborate to create innovative solutions! 🤝
