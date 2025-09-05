@@ -1,6 +1,6 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=1E3A8A&width=600&lines=Hi+there!+I'm+Mayoori+Ekanthan+👋;Tech+Enthusiast%7CAI%7CIoT%7CWeb+Dev&repeat=true)
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF6F61&width=600&lines=Hi+there!+I'm+Mayoori+Ekanthan+👋;Tech+Enthusiast+|+AI+|+IoT+|+Web+Dev&repeat=true)
 
 
 🎓 **BSc (Hons) in Information Systems**  
